@@ -29,7 +29,6 @@ adib
 adib
 
 ## Deployment Link
-(https://resplendent-frangipane-69ae1e.netlify.app/)
 
 ## Questions
 For additional questions, you can reach me through:
